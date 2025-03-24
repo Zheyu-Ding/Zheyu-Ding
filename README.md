@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi 👋, I'm Zheyu Ding
+- 🔭 I’m earned Bachelor degree in Pharmaceutical Engineering from Hainan University in July 2022.
+- 🌱 I’m currently learning bioinformatics.
 <!--
 **Zheyu-Ding/Zheyu-Ding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
