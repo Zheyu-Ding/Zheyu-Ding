@@ -1,6 +1,7 @@
 ## Hi, I'm Zheyu Ding🤝
 - 🔭 I’m earned Bachelor degree in Pharmaceutical Engineering from Hainan University in July 2022.
 - 🌱 I’m currently a master student and I’m learning bioinformatics.
+- 🤔 I’m actively seeking opportunities to pursue a Doctor’s degree starting from Fall 2025 or Fall 2026.
 - 📫 More information about me can be found on [my personal homepage](https://zheyu-ding.github.io/)
 
 <!--
