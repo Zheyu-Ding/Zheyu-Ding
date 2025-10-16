@@ -1,6 +1,6 @@
 ## Hi, I'm Zheyu Ding🤝
 - 🔭 I’m a Ph.D candidate at SCU.
-- 🤔 My research interest includes systems biology, bioinformatics, translation regulation, and ribosome profiling.
+- 🤔 My research interest includes systems biology, bioinformatics, cancer, translation regulation, and ribosome profiling.
 - 📫 More information about me can be found on [my homepage](https://zheyu-ding.github.io/).
 
 <!--
